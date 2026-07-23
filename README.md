@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Chelsea Abulu, a final year IT student. 
+I'm Chelsea Abulu, a recent IT graduate. 
 I enjoy working with complex data sets to identify trends and patterns.
 
 - 🔭 I’m currently working as a Data Analyst Intern
